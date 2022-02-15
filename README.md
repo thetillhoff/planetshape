@@ -3,6 +3,11 @@
 ## The vision
 Generic system for most common components that everyone can use. Cloud or not. Knowing tech details or not. Having product preferences or not. Sensible defaults for everyone, obscuring unnecessary details. Provider of plugin must ensure support of the plugin.
 
+## Preparation problems
+- WE NEED ORDERED LISTS FOR THIS! It solves all our problems! We can use dictionaries with numbers as keys to get that.
+  We can then try to match stuff we already have with our 'schema' and find things that don't match anything. Could be a hassle to implement though...
+- cores & ghz could be auto-converted to manufacturer and model no -> help the user finding them
+
 # The ideas
 
 - Similar to terraform but more abstract.
